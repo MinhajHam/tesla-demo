@@ -178,3 +178,25 @@ header {
     letter-spacing: 1px;
     margin-top: -30px;
 }
+#main-heading3 {
+  width: 25%;
+  height: 150px;
+  position: absolute;
+  text-align: center;
+  margin-left: 40%;
+  margin-top: -38%;
+}
+.heading-3 {
+  font-family: system-ui;
+  font-weight: 500;
+  font-size: 45px;
+  letter-spacing: 1.5px;
+}
+.subheading-3 {
+  font-size: 18px;
+  color: #525252;
+  font-family: sans-serif;
+  font-weight: lighter;
+  letter-spacing: 1px;
+  margin-top: -30px;
+}
